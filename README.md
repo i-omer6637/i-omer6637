@@ -4,6 +4,7 @@
 🌱 Currently learning Blockchain<br>
 😍 Interested in AI and Game Development<br>
 👀 My Portfolio (https://www.omer-dev.com)
+👀 My Gitlab Profile (https://gitlab.com/om3rfar00q)
 
 
 ## 🌐 Socials:
