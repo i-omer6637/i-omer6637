@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 Working on Laravel, PHP and Node JS<br>
-💻 Intermediate in NextJs and Tailwand CSS<br>
+💻 Intermediate in NextJs and Tailwind CSS<br>
 🌱 Currently learning Blockchain<br>
 😍 Interested in AI and Game Development<br>
 👀 My Portfolio (https://www.omer-dev.com)<br>
